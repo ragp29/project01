@@ -7,7 +7,7 @@ Maintainer: Rasmus Gregers <ragp@ase.dk>
 Description: This package is build as an execise in "Mastering Software
     development in R" at John Hopkins at coursera
 License: MIT
-Import: dplyr, tidyr, graphics, maps, magrittr, readr
+Imports: dplyr, tidyr, graphics, maps, magrittr, readr
 Encoding: UTF-8
 LazyData: true
 Suggests:
