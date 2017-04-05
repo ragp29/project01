@@ -1,7 +1,7 @@
 #'Mapping observations in specific states in a specific year
 #'
-#'@param integer state.num
-#'@param integer year
+#'@param state.num integer
+#'@param year integer
 #'
 #'@return a map of state with observations for year
 #'

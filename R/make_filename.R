@@ -1,6 +1,6 @@
 #'Make filename
 #'
-#'@param integer takes year as parameter
+#'@param year integer
 #'
 #'@return a filename with the specified year in the format "accident_%d.csv.bz2"
 #'

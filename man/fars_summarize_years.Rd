@@ -7,7 +7,7 @@
 fars_summarize_years(years)
 }
 \arguments{
-\item{vactor}{takes years as parameter}
+\item{years}{vactor}
 }
 \value{
 a data frame tbl which shows number of observations grouped by year and month

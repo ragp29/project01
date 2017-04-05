@@ -1,6 +1,6 @@
 #'Reads in data from different years and stores in dat which contains month and year
 #'
-#'@param vector takes years as parameter
+#'@param years vector
 #'
 #'@importFrom dplyr mutate select
 #'@importFrom magrittr "%>%"

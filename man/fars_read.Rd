@@ -10,7 +10,7 @@ US National Highway Traffic Safety Administration's Fatality Analysis Reporting 
 fars_read(filename)
 }
 \arguments{
-\item{string}{a filename  + additional info about path. Check working directory}
+\item{filename}{string}
 }
 \value{
 a data frame tbl

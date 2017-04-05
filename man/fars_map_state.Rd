@@ -7,9 +7,9 @@
 fars_map_state(state.num, year)
 }
 \arguments{
-\item{integer}{state.num}
+\item{state.num}{integer}
 
-\item{integer}{year}
+\item{year}{integer}
 }
 \value{
 a map of state with observations for year

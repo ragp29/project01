@@ -7,7 +7,7 @@
 make_filename(year)
 }
 \arguments{
-\item{integer}{takes year as parameter}
+\item{year}{integer}
 }
 \value{
 a filename with the specified year in the format "accident_%d.csv.bz2"

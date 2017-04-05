@@ -1,6 +1,6 @@
 #'Create data frame as table and stores it in fars_read
 #'
-#'@param string a filename  + additional info about path. Check working directory
+#'@param filename string
 #'
 #'@importFrom readr read_csv
 #'@importFrom dplyr tbl_df

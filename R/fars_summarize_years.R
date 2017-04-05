@@ -1,6 +1,6 @@
 #'Summarizing data to see how many observations per year and month
 #'
-#'@param vactor takes years as parameter
+#'@param years vactor
 #'
 #'@return a data frame tbl which shows number of observations grouped by year and month
 #'

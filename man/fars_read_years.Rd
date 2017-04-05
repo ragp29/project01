@@ -7,7 +7,7 @@
 fars_read_years(years)
 }
 \arguments{
-\item{vector}{takes years as parameter}
+\item{years}{vector}
 }
 \value{
 a data frame tbl which includes month and year across different years
