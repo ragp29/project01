@@ -4,12 +4,15 @@ Title: Execise in coursera_week 4
 Version: 0.1.0
 Author: Rasmus Gregers <ragp@ase.dk>
 Maintainer: Rasmus Gregers <ragp@ase.dk>
-Description: This package is build as an execise in "Mastering Software development in R" at John Hopkins at coursera
+Description: This package is build as an execise in "Mastering Software
+    development in R" at John Hopkins at coursera
 License: MIT
-Import: dplyr, tidyr, graphics, map, magrittr, readr
+Import: dplyr, tidyr, graphics, maps, magrittr, readr
 Encoding: UTF-8
 LazyData: true
-Suggests: knitr,
+Suggests:
+    knitr,
     rmarkdown,
     testthat
 VignetteBuilder: knitr
+RoxygenNote: 5.0.1

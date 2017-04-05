@@ -3,12 +3,15 @@
 #'@param vector takes years as parameter
 #'
 #'@importFrom dplyr mutate select
+#'@importFrom magrittr "%>%"
 #'
 #'@return a data frame tbl which includes month and year across different years
 #'
 #'@export
 
 fars_read_years <- function(years) {
+  year <- NULL
+  MONTH <- NULL
   lapply(years, function(year) {
     file <- make_filename(year)
     tryCatch({
