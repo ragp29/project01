@@ -3,6 +3,7 @@
 #'@param string a filename  + additional info about path. Check working directory
 #'
 #'@importFrom readr read_csv
+#'@importFrom dplyr tbl_df
 #'
 #'@return a data frame tbl
 #'
